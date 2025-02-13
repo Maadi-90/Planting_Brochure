@@ -1,0 +1,16 @@
+title: "The the Right Trees for the Job"
+author: "Aaron Lerdahl, The TreeWalker Owner"
+description: "Bulk tree planting options for your neighborhood. Learn about the best trees for Cache Valley and how to get them at a discount."
+
+# Sidebar settings
+show_excerpts: true
+paginate: 5
+
+theme: jekyll-theme-cayman
+
+$brand-color: #2e8b57; /* Forest Green */
+$background-color: #f5f5f5; /* Light Gray */
+$header-text-color: #4b4b4b;
+$footer-background-color: #2e8b57;
+sass:
+  style: compressed
